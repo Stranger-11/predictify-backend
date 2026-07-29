@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "task/integration-markets-test"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "task/integration-markets-test": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "task/integration-markets-test"
+  ]
+}
